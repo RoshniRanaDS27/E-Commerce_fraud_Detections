@@ -1,4 +1,5 @@
-# Group project
+# Group project - E-Commerce_fraud_Detections
+<img src="https://media2.giphy.com/media/fea0VUEUXt79zXTPeB/giphy.webp?cid=790b7611koqqz3dmg31n0finairm3nynubks0x3xaq3ltzae&ep=v1_stickers_search&rid=giphy.webp&ct=s" class="card-img-top" alt="Project 15">
 
 Project members: Roshni, Muneeb, Ria, Mahalel, Ricardo
 

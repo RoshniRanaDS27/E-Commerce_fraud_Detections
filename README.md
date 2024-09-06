@@ -1,4 +1,4 @@
-# project-1
+# Group project
 
 Project members: Roshni, Muneeb, Ria, Mahalel, Ricardo
 

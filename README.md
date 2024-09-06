@@ -1,7 +1,7 @@
 # Group project - E-Commerce_fraud_Detections
 <img src="https://media2.giphy.com/media/fea0VUEUXt79zXTPeB/giphy.webp?cid=790b7611koqqz3dmg31n0finairm3nynubks0x3xaq3ltzae&ep=v1_stickers_search&rid=giphy.webp&ct=s" class="card-img-top" alt="Project 15">
 
-Project members: Roshni, Muneeb, Ria, Mahalel, Ricardo
+Project members: Roshni, Ria, Muneeb, Mahalel, Ricardo
 
 The topic selected by our Project team 8 is surrounding fraudulent e-commerce transactions
 With two data sets merged, we filtered out the legitimate transactions to analyze the fraud transactions among a vast variety of categories: Age, transaction amount, payment method etc.

@@ -1,4 +1,5 @@
 # Group project - E-Commerce_fraud_Detections
+### Exploratory Data Analysis, co-relationships, data Stuctures, Hypotheis Testing and patter findings
 <img src="https://media2.giphy.com/media/fea0VUEUXt79zXTPeB/giphy.webp?cid=790b7611koqqz3dmg31n0finairm3nynubks0x3xaq3ltzae&ep=v1_stickers_search&rid=giphy.webp&ct=s" class="card-img-top" alt="Project 15">
 
 Project members: Roshni, Ria, Muneeb, Mahalel, Ricardo
